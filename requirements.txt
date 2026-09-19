@@ -1,0 +1,4 @@
+langgraph
+langchain-xai
+python-dotenv
+streamlit==1.25.0
